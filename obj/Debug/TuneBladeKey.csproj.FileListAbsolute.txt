@@ -1,0 +1,7 @@
+C:\Users\Umetzu\source\repos\TuneBladeKey\bin\Debug\TuneBladeKey.exe.config
+C:\Users\Umetzu\source\repos\TuneBladeKey\bin\Debug\TuneBladeKey.exe
+C:\Users\Umetzu\source\repos\TuneBladeKey\bin\Debug\TuneBladeKey.pdb
+C:\Users\Umetzu\source\repos\TuneBladeKey\obj\Debug\TuneBladeKey.csprojAssemblyReference.cache
+C:\Users\Umetzu\source\repos\TuneBladeKey\obj\Debug\TuneBladeKey.csproj.CoreCompileInputs.cache
+C:\Users\Umetzu\source\repos\TuneBladeKey\obj\Debug\TuneBladeKey.exe
+C:\Users\Umetzu\source\repos\TuneBladeKey\obj\Debug\TuneBladeKey.pdb

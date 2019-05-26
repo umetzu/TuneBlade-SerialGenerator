@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuneBladeKey", "TuneBladeKey.csproj", "{CC0D1768-8C68-42C3-90E3-CBEF9050B93F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0D1768-8C68-42C3-90E3-CBEF9050B93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0D1768-8C68-42C3-90E3-CBEF9050B93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0D1768-8C68-42C3-90E3-CBEF9050B93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0D1768-8C68-42C3-90E3-CBEF9050B93F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47BE868A-3F1B-4484-BC14-405F0998C2AB}
+	EndGlobalSection
+EndGlobal
