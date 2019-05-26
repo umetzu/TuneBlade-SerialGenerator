@@ -5,3 +5,10 @@ C:\Users\Umetzu\source\repos\TuneBladeKey\obj\Debug\TuneBladeKey.csprojAssemblyR
 C:\Users\Umetzu\source\repos\TuneBladeKey\obj\Debug\TuneBladeKey.csproj.CoreCompileInputs.cache
 C:\Users\Umetzu\source\repos\TuneBladeKey\obj\Debug\TuneBladeKey.exe
 C:\Users\Umetzu\source\repos\TuneBladeKey\obj\Debug\TuneBladeKey.pdb
+C:\Users\Umetzu\Developer\TuneBlade-SerialGenerator\obj\Debug\TuneBladeKey.csprojAssemblyReference.cache
+C:\Users\Umetzu\Developer\TuneBlade-SerialGenerator\obj\Debug\TuneBladeKey.csproj.CoreCompileInputs.cache
+C:\Users\Umetzu\Developer\TuneBlade-SerialGenerator\bin\Debug\BreakFreeAudioKeyMaker.exe.config
+C:\Users\Umetzu\Developer\TuneBlade-SerialGenerator\bin\Debug\BreakFreeAudioKeyMaker.exe
+C:\Users\Umetzu\Developer\TuneBlade-SerialGenerator\bin\Debug\BreakFreeAudioKeyMaker.pdb
+C:\Users\Umetzu\Developer\TuneBlade-SerialGenerator\obj\Debug\BreakFreeAudioKeyMaker.exe
+C:\Users\Umetzu\Developer\TuneBlade-SerialGenerator\obj\Debug\BreakFreeAudioKeyMaker.pdb

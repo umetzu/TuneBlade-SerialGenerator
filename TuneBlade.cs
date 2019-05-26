@@ -2,9 +2,9 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace TuneBladeKey
+namespace BreakFreeAudioKeyMaker
 {
-	public class Generator
+	public class TuneBlade
 	{
 		public string Generate(string keyId)
 		{

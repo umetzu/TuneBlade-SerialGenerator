@@ -1,15 +1,20 @@
 ﻿using System;
 
-namespace TuneBladeKey
+namespace BreakFreeAudioKeyMaker
 {
 	internal class Program
 	{
 		private static void Main(string[] args)
 		{
-			var generator = new Generator();
-			var result = generator.Generate("dennis@umetzu.com");
+			var generatorTuneBlade = new TuneBlade();
+			var resultTuneBlade = generatorTuneBlade.Generate("tuneblade@umetzu.com");
 
-			Console.WriteLine(result);
+			Console.WriteLine("TuneBlade: " + resultTuneBlade);
+
+			var generatorTuneAero = new TuneAero();
+			var resultTuneAero = generatorTuneAero.Generate();
+
+			Console.WriteLine("TuneAero: " + resultTuneAero);
 		}
 	}
 }
