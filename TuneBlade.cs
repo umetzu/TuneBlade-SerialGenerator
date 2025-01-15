@@ -6,7 +6,7 @@ namespace BreakFreeAudioKeyMaker
 {
 	public class TuneBlade
 	{
-		public string Generate(string keyId)
+		public static string Generate(string keyId)
 		{
 			if (!IsValidEmail(keyId))
 			{
